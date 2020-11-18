@@ -1,3 +1,5 @@
 # Data Management Suggestions for Archiving with PARADISEC or other archives
 
-images/banner-notebooks.jpg
+<p align="center">
+  <img height="200" src="images/banner-notebooks.jpg">
+</p>
