@@ -12,5 +12,5 @@
 
 [LaMeta](https://github.com/onset/laMETA/releases) - LaMeta will allow you to create .imdi metadata files via a simple graphical interface.  
 <p align="center">
-  <img width="500" src="images/LaMeta.jpg">
+  <img width="500" src="images/LaMeta-screenshot.jpg">
 </p>
