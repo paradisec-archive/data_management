@@ -13,7 +13,7 @@
   <img width="500" src="images/PARADISEC-spreadsheet.jpg">
 </p>
 
-**LaMeta** - LaMeta will allow you to create .imdi metadata files via a simple graphical interface. Follow this [link](https://github.com/onset/laMETA/releases) to download the latest version. If you need help using this software, take a look at this helpful [site](https://sites.google.com/site/metadatatooldiscussion/)
+**LaMeta** - This free software will allow you to create .imdi metadata files via a simple graphical interface. Follow this [link](https://github.com/onset/laMETA/releases) to download the latest version. If you need guidance using LaMeta, take a look at this helpful [site](https://sites.google.com/site/metadatatooldiscussion/)
 <p align="center">
   <img width="500" src="images/LaMeta-screenshot.jpg">
 </p>
