@@ -10,7 +10,7 @@
 At this time there are two metadata tools that we are supporting. LaMeta is still being improved with each new version, so some newly added features may not function as expected (such as the PARADISEC export function). Follow the links below to get the most recent versions. 
 
 **PARADISEC-configured Spreadsheet** - Right-click on this [link](http://www.paradisec.org.au/wp-content/uploads/2020/10/PDSCMinimalMetadata2020.xlsx) to save the PARADISEC pre-configured spreadsheet. All fields necessary to create catalog items in PARADISEC are included. 
-> Note:  Rows in the PARADISEC spreadsheet are meant to capture metadata at the level of an item, or recording session. Do not list individual file information.<
+> Note:  Rows in the PARADISEC spreadsheet are meant to capture metadata at the level of an item, or recording session. Do not list individual file information.
 
 <p align="center">
   <img width="500" src="images/PARADISEC-spreadsheet.jpg">
@@ -20,4 +20,6 @@ At this time there are two metadata tools that we are supporting. LaMeta is stil
 <p align="center">
   <img width="500" src="images/LaMeta-screenshot.jpg">
 </p>
+
+
 
