@@ -11,3 +11,6 @@
 > Note:  Rows in the PARADISEC spreadsheet are meant to capture metadata at the level of an item, or recording session. Do not list individual file information.
 
 [LaMeta](https://github.com/onset/laMETA/releases) - LaMeta will allow you to create .imdi metadata files via a simple graphical interface.  
+<p align="center">
+  <img width="500" src="images/LaMeta.jpg">
+</p>
