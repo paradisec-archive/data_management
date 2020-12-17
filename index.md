@@ -7,7 +7,7 @@
 
 ## Metadata management tools
 
-**PARADISEC-configured Spreadsheet** - Clicking this link [http://www.paradisec.org.au/wp-content/uploads/2020/10/PDSCMinimalMetadata2020.xlsx](http://www.paradisec.org.au/wp-content/uploads/2020/10/PDSCMinimalMetadata2020.xlsx) will begin the download of the this preconfigured spreadsheet. All fields necessary to create catalog items in PARADISEC are included. 
+**PARADISEC-configured Spreadsheet** - Right-click on this link to save the PARADISEC pre-configured spreadsheet [http://www.paradisec.org.au/wp-content/uploads/2020/10/PDSCMinimalMetadata2020.xlsx](http://www.paradisec.org.au/wp-content/uploads/2020/10/PDSCMinimalMetadata2020.xlsx). All fields necessary to create catalog items in PARADISEC are included. 
 > Note:  Rows in the PARADISEC spreadsheet are meant to capture metadata at the level of an item, or recording session. Do not list individual file information.
 <p align="center">
   <img width="500" src="images/PARADISEC-spreadsheet.jpg">
