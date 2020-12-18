@@ -4,7 +4,7 @@
   <img height="200" src="images/banner-notebooks.jpg">
 </p>
 
-Most of this is geared toward preparing your collection for [PARADISEC (Pacific and Regional Archive for Digital Sources in Engangered Cultures)](https://www.paradisec.org.au/), but some of the organisational concepts can be applied to depositing with other archives such as [The Endangered Language Archive (ELAR)](https://elar.soas.ac.uk/) or [The Language Archive (TLA)](https://archive.mpi.nl/tla/).
+Most of this information is geared toward preparing your collection for [PARADISEC (Pacific and Regional Archive for Digital Sources in Engangered Cultures)](https://www.paradisec.org.au/), but some of the organisational concepts can be applied to depositing with other archives such as [The Endangered Language Archive (ELAR)](https://elar.soas.ac.uk/) or [The Language Archive (TLA)](https://archive.mpi.nl/tla/).
 
 ## Metadata management tools
 
